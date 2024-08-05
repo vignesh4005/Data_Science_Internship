@@ -17,7 +17,7 @@ During my internship at Unified Mentor, I worked on analyzing datasets related t
 
 ## Projects
 
-### Market Capitalization and Sales Analysis
+### Financial Analytics
 - **Description**: Analyzed market capitalization and sales data of the top 500 Indian companies.
 - **Objectives**: Identify key metrics and provide strategic recommendations to improve business strategies.
 - **Key Findings**: [Link to Report/Notebook](./Market_Capitalization_Sales_Analysis)
