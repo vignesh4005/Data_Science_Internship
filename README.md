@@ -10,8 +10,6 @@ Welcome to my GitHub repository showcasing the projects I worked on during my in
    - [Foreign Direct Investment (FDI) Analysis](#foreign-direct-investment-fdi-analysis)
    - [Crop Production Data Analysis](#crop-production-data-analysis)
 3. [Skills and Tools](#skills-and-tools)
-4. [How to Use](#how-to-use)
-5. [Contact](#contact)
 
 ## Overview
 
