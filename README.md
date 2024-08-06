@@ -25,7 +25,7 @@ During my internship at Unified Mentor, I worked on analyzing datasets related t
 ### Foreign Direct Investment (FDI) Analysis
 - **Description**: Analyzed 17 years of FDI data in India.
 - **Objectives**: Identify key metrics and relationships to formulate optimal investment strategies.
-- **Key Findings**: [Link to Report/Notebook](./FDI_Analysis)
+- **Key Findings**: [Link to Report/Notebook](https://github.com/vignesh4005/DS_Intern_2-Months/blob/main/FDI%20Analytics%20Report/FDI%20Analytics%20Report.png)
 
 ### Crop Production Data Analysis
 - **Description**: Analyzed multi-year crop production data.
