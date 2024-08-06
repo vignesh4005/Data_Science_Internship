@@ -20,7 +20,7 @@ During my internship at Unified Mentor, I worked on analyzing datasets related t
 ### Financial Analytics
 - **Description**: Analyzed market capitalization and sales data of the top 500 Indian companies.
 - **Objectives**: Identify key metrics and provide strategic recommendations to improve business strategies.
-- **Key Findings**: [Link to Report/Notebook](https://github.com/vignesh4005/Data_Science_Intern_Unified-Mentor/blob/main/Financial%20Analytics%20Report/Financial%20Analytics%20Report%20Page%201.png)
+- **Key Findings**: [Link to Report/Notebook](https://github.com/vignesh4005/DS_Intern_2-Months/blob/main/Financial%20Analytics%20Report/Financial%20Analytics%20Report%20Page%201.png)
 
 ### Foreign Direct Investment (FDI) Analysis
 - **Description**: Analyzed 17 years of FDI data in India.
