@@ -1,4 +1,4 @@
-# Unified Mentor Data Science Internship Projects
+# Unified Mentor 2 Months Data Science Internship Projects
 
 Welcome to my GitHub repository showcasing the projects I worked on during my internship at Unified Mentor, an e-learning platform offering internships with practical datasets. As a data science intern, I focused on analyzing various datasets to identify key metrics and improve strategies.
 
