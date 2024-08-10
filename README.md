@@ -30,7 +30,7 @@ During my internship at Unified Mentor, I worked on analyzing datasets related t
 ### Crop Production Data Analysis
 - **Description**: Analyzed multi-year crop production data.
 - **Objectives**: Predict outputs and identify key metrics, create views, dashboards, and a comprehensive story.
-- **Key Findings**: [Link to Report/Notebook](./Crop_Production_Analysis)
+- **Key Findings**: [Link to Report/Notebook](https://github.com/vignesh4005/DS_Intern_2-Months/blob/main/Crop%20Production%20Analysis%20in%20India%20Report/CP%20Report.png)
 
 ## Skills and Tools
 
