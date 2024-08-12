@@ -9,7 +9,7 @@ Welcome to my GitHub repository showcasing the projects I worked on during my in
    - [Market Capitalization and Sales Analysis](#market-capitalization-and-sales-analysis)
    - [Foreign Direct Investment (FDI) Analysis](#foreign-direct-investment-fdi-analysis)
    - [Crop Production Data Analysis](#crop-production-data-analysis)
-3. [Skills and Tools](#skills-and-tools)
+3. [Skills, Tools and Final Report Document](#skills-and-tools)
 
 ## Overview
 
@@ -20,20 +20,21 @@ During my internship at Unified Mentor, I worked on analyzing datasets related t
 ### Financial Analytics
 - **Description**: Analyzed market capitalization and sales data of the top 500 Indian companies.
 - **Objectives**: Identify key metrics and provide strategic recommendations to improve business strategies.
-- **Key Findings**: [Link to Report/Notebook](https://github.com/vignesh4005/DS_Intern_2-Months/blob/main/Financial%20Analytics%20Report/Financial%20Analytics%20Report%20Page%201.png)
+- **Key Findings**: [Link to Report](https://github.com/vignesh4005/DS_Intern_2-Months/blob/main/Financial%20Analytics%20Report/Financial%20Analytics%20Report%20Page%201.png)
 
 ### Foreign Direct Investment (FDI) Analysis
 - **Description**: Analyzed 17 years of FDI data in India.
 - **Objectives**: Identify key metrics and relationships to formulate optimal investment strategies.
-- **Key Findings**: [Link to Report/Notebook](https://github.com/vignesh4005/DS_Intern_2-Months/blob/main/FDI%20Analytics%20Report/FDI%20Analytics%20Report.png)
+- **Key Findings**: [Link to Report](https://github.com/vignesh4005/DS_Intern_2-Months/blob/main/FDI%20Analytics%20Report/FDI%20Analytics%20Report.png)
 
 ### Crop Production Data Analysis
 - **Description**: Analyzed multi-year crop production data.
 - **Objectives**: Predict outputs and identify key metrics, create views, dashboards, and a comprehensive story.
-- **Key Findings**: [Link to Report/Notebook](https://github.com/vignesh4005/DS_Intern_2-Months/blob/main/Crop%20Production%20Analysis%20in%20India%20Report/CP%20Report.png)
+- **Key Findings**: [Link to Report](https://github.com/vignesh4005/DS_Intern_2-Months/blob/main/Crop%20Production%20Analysis%20in%20India%20Report/CP%20Report.png)
 
 ## Skills and Tools
 
 Throughout these projects, I utilized skills and tools, including:
 - **Data Visualization**: MS Power BI
 - **Others**: MS Excel
+- **Reporting**: [Link to Final Report Document](https://github.com/vignesh4005/DS_Intern_2-Months/blob/main/Intern%20Report.pdf)
