@@ -13,7 +13,7 @@ Welcome to my GitHub repository showcasing the projects I worked on during my in
 
 ## Overview
 
-During my internship at Unified Mentor, I worked on analyzing datasets related to market capitalization and sales of top Indian companies, foreign direct investment in India, and multi-year crop production data. This repository contains the code, analyses, visualizations, and reports for these projects.
+During my internship at Unified Mentor, I worked on analyzing datasets related to market capitalization and sales of top Indian companies, foreign direct investment in India, and multi-year crop production data. This repository contains the analyses, visualizations, and reports for these projects.
 
 ## Projects
 
